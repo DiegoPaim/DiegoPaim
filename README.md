@@ -38,7 +38,7 @@ Onde pode me encontrar:
 ## Portfólio e Principais Projetos
 ### Contoso - Análise de Clientes
 <img align="right" width="600"  src="https://github.com/DiegoPaim/ClientesContoso/blob/main/Imagens/Power%20BI/Captura%20de%20tela%202025-02-04%20160117.png?raw=true">
-Projeto de dashboard devolvido com Power BI para identificar o perfil e o comportamento dos clientes de uma empresa fictícia global de varejo. Com o final do ano chegando, a empresa solicitou uma análise dos seus clientes tendo em vista seu desempenho de negócio, de modo que estratégias personalizadas possam ser desenvolvidas futuramente para melhorar seu desempenho. Deste modo, este relatório organizou as seguintes informações:
+Projeto de dashboard desenvolvido com Power BI para identificar o perfil e o comportamento dos clientes de uma empresa fictícia global de varejo. Com o final do ano chegando, a empresa solicitou uma análise dos seus clientes tendo em vista seu desempenho de negócio, de modo que estratégias personalizadas possam ser desenvolvidas futuramente para melhorar seu desempenho. Deste modo, este relatório organizou as seguintes informações:
 <br><br>
 - Extração e limpeza dos dados do banco de dados da empresa, selecionando informações vinculadas aos clientes e à sua contribuição no desempenho das vendas;
 <br>
