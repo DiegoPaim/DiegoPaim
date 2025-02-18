@@ -53,5 +53,25 @@ O relatório concluiu que a empresa possui uma clientela majoritariamente escola
 <a href="https://github.com/DiegoPaim/ClientesContoso/tree/main">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
+
+### Análise de Vendas e Entregas
+<img align="left" width="500" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
+Projeto desenvolvido durante o curso de Power BI & Data Analytics do Bruce Fonseca, com o intuito de analisar o desempenho das vendas e a qualidade do serviço de entrega de uma empresa fictícia. Neste projeto, tratamos inicialmente de sumarizar os dados referentes às vendas dos últimos 4 anos, para entregar ao gestor um panorama do desempenho da empresa. Em seguida, desenvolvemos uma análise das características e detalhes do processo de entrega dos produtos ao longo destes anos, para identificarmos possíveis áreas de impacto na qualidade do serviço e na relação com os clientes. Os procedimentos realizados no desenvolvimento deste relatório foram os seguintes: <br>
+- Carregamento e limpeza dos dados fornecidos pela empresa: padronização dos tipos de dados, exclusão de valores nulos, e manipulação das tabelas existentes.<br>
+- Modificanmos as tabelas mesclando colunas e criando colunas personalizadas aptas a nos auxiliar no processo de análise. Por exemplo, criamos colunas calculadas para exibir o status das entregas de cada venda - se estavam atrasadas ou não -, e para exibir em quantos dias tal entrega estava atrasada, se estava atrasada.<br>
+- Construção de medidas-chave em linguagem dax, utilizando recursos tais como funções de iteração, função calculate (), funções de inteligência temporal, variáveis e recursos de rankeamento;
+<br>
+- Segmentação dos dados em categorias-chave, distribuindo inicialmente as vendas por categoria e por tempo. Adicionamos os recursos de tooltip e de menu flutuante para adquirirmos maior detalhamento acereca dos dados em questão;
+<br>
+- Em seguida, segmentamos as entregas por categorias, a partir de medidas criadas especificamente para as entregas. Nesta parte, utilizamos o objeto "principais influenciadores" para identificar como estas categorias influenciam no desempenho das entregas atrasadas;
+<br>
+- Por fim, construímos uma nova página para visualizarmos com mais detalhe a distribuição das entregas atrasadas pelas nossas categorias. Nesta página, construímos uma tabela com o desempenho de cada categoria dos nossos produtos;
+<br><br>
+O relatório concluiu que a pandemia produziu uma quebra no padrão de vendas da empresa ao longo do ano no ano de 2020,  mas que já foi normalizado nos anos de 2021 e 2022. 40% das entregas são atrasadas, com uma média de (...) dias de atraso por entrega. A cidade de Sorocaba é o local com maior índice de entregas atrasadas, embora a cidade de Blumenau também tenha um número alto proporcionalmente às suas entregas. 
+<br><br>
+
+<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 <!--
 **DiegoPaim/DiegoPaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
