@@ -71,7 +71,7 @@ Projeto desenvolvido durante o curso de Power BI & Data Analytics do Bruce Fonse
 <br>
 - Por fim, construímos uma nova página para visualizarmos com mais detalhe a distribuição das entregas atrasadas pelas nossas categorias. Nesta página, construímos uma tabela com o desempenho de cada categoria dos nossos produtos;
 <br><br>
-O relatório concluiu que a pandemia produziu uma quebra no padrão de vendas da empresa ao longo do ano no ano de 2020,  mas que já foi normalizado nos anos de 2021 e 2022. 60% das entregas são atrasadas, sendo a maioria proveniente da cidade de Sorocaba.  
+O relatório concluiu que, apesar de uma queda de rendimento no ano de 2020, a empresa possui bons índices de recuperação. As vendas cresceram 13% e 5% nos últimos dois anos, com foco nas cidades de Sorocaba e de Blumenau. O desempenho anual também demonstrou estabilização na comparação com o ano passado. As regiões do norte e do nordeste, entretanto, demonstraram uma queda preocupante nas vendas em relação ao ano passado, sendo essa queda demarcada pelo desempenho na segunda metade do ano e pelas cidades de Itapuã e Vitória da Conquista. Além disso, a empresa tem atrasado, em média, 6 dias para realizar suas entregas. 
 <br><br>
 
 <a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
