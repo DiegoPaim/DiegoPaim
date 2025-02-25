@@ -51,6 +51,8 @@ O relatório concluiu que a empresa possui uma clientela majoritariamente escola
 <a href="https://app.powerbi.com/groups/me/reports/6caed4d4-b2d1-4cc5-8e80-9dee5c610a90/93ff579bfb0c44d84e6d?ctid=dcf5ae63-dba1-49e9-8a67-9797b5c927e8&experience=power-bi">Clique aqui</a> e acesse o a solução desenvolvida.
 <br>
 <a href="https://github.com/DiegoPaim/ClientesContoso/tree/main">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://www.linkedin.com/pulse/1-projeto-de-portfolio-an%C3%A1lise-clientes-diego-paim-sx7ef/?trackingId=IOISvfnNSDCUtxfdx2sguA%3D%3D">Clique aqui</a> e acesse a apresentação detalhada da solução.
 
 <br><br>
 
@@ -71,11 +73,18 @@ Projeto desenvolvido durante o curso de Power BI & Data Analytics do Bruce Fonse
 <br>
 - Por fim, construímos uma nova página para visualizarmos com mais detalhe a distribuição das entregas atrasadas pelas nossas categorias. Nesta página, construímos uma tabela com o desempenho de cada categoria dos nossos produtos;
 <br><br>
-O relatório concluiu que, apesar de uma queda de rendimento no ano de 2020, a empresa possui bons índices de recuperação. As vendas cresceram 13% e 5% nos últimos dois anos, com foco nas cidades de Sorocaba e de Blumenau. O desempenho anual também demonstrou estabilização na comparação com o ano passado. As regiões do norte e do nordeste, entretanto, demonstraram uma queda preocupante nas vendas em relação ao ano passado, sendo essa queda demarcada pelo desempenho na segunda metade do ano e pelas cidades de Itapuã e Vitória da Conquista. Além disso, a empresa tem atrasado, em média, 6 dias para realizar suas entregas. 
+O relatório concluiu que, apesar de uma queda de rendimento no ano de 2020, a empresa possui bons índices de recuperação. As vendas cresceram 13% e 5% nos últimos dois anos, com foco nas cidades de Sorocaba e de Blumenau. O desempenho anual também demonstrou estabilização na comparação com o ano passado. As regiões do norte e do nordeste, entretanto, demonstraram uma queda preocupante nas vendas em relação ao ano passado, sendo essa queda demarcada pelo desempenho na segunda metade do ano e pelas cidades de Itapuã e Vitória da Conquista. Além disso, 60% das entregas realizadas são atrasadas, com média geral de 6 dias de atraso. Recomenda-se os seguintes procedimentos para a empresa:
+
 <br><br>
 
-<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+- Repensar as estratégias de marketing e de fidelização dos clientes das regiões do Norte/Nordeste. Embora a venda unitária de produtos seja significativa para essas regiões, a lucratividade têm despencado, o que assinala um risco de perda de clientes e um gasto nos processos de entrega;
+- Melhores mecanismos de controle das entregas. O alto índice de atrasos em todas as regiões do Brasil indicam um problema estrutural que precisa ser atacado.
+- Otimizar as políticas de preços, tendo em vista as entregas para distintas regiões. No ano anterior, realizamos mais entregas, mas tivemos menor lucratividade. Isso significa que estamos vendendo menos e lucrando mais. Seria interessante identificar a partir de qual medida da empresa isso se deu, de modo que possamos eliminar gastos com entregas de baixa lucratividade e fidelizar as vendas que têm crescido. 
+
+<br><br>
+
+<a href="https://github.com/DiegoPaim/ProjetoBFLubes/tree/main" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+
 <!--
 **DiegoPaim/DiegoPaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
