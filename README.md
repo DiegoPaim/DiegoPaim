@@ -1,15 +1,15 @@
-## Olá, eu sou o Diego! 👋
+## Hello, I'm Diego! 👋
 
-## Sociólogo analista de dados
+## Sociologist & Data Analyst
 
-Sobre mim:
+About me:
 
-- 📚 Atualmente, sou doutorando em Filosofia da tecnologia pela PUC/RS
-- 👨‍💻 Estudo e trabalho em projetos de análise de dados e BI
+- 📚 Currently pursuing a Ph.D. in Philosophy of Technology at PUC/RS
+- 👨‍💻 Studying and working on data analysis and business intelligence (BI) projects
 
 ## 
 
-Principais Ferramentas:
+Key Tools:
 
 <div style="display: inline_block">
   <img align="center" alt="Excel" height="40" width="40" src="https://github.com/DiegoPaim/ClientesContoso/blob/main/Imagens/excel.png?raw=true">
@@ -18,9 +18,8 @@ Principais Ferramentas:
 </div>
 
 <br>
-
   
-Onde pode me encontrar:
+Where to find me:
 <div style="display: inline_block">
   <a href="https://lattes.cnpq.br/7916296799109364" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/DiegoPaim/ClientesContoso/blob/main/Imagens/lattes.jpeg?raw=true">
@@ -35,55 +34,60 @@ Onde pode me encontrar:
 
 ## 
 
-## Portfólio e Principais Projetos
+## Portfolio and Main Projects
 ### Contoso - Análise de Clientes
 <img align="right" width="550"  src="https://github.com/DiegoPaim/ClientesContoso/blob/main/Imagens/Power%20BI/Captura%20de%20tela%202025-02-04%20160117.png?raw=true">
-Projeto de dashboard desenvolvido com Power BI para identificar o perfil e o comportamento dos clientes de uma empresa fictícia global de varejo. Com o final do ano chegando, a empresa solicitou uma análise dos seus clientes tendo em vista seu desempenho de negócio, de modo que estratégias personalizadas possam ser desenvolvidas futuramente para melhorar seu desempenho. Deste modo, este relatório organizou as seguintes informações:
-<br><br>
-- Extração e limpeza dos dados do banco de dados da empresa, selecionando informações vinculadas aos clientes e à sua contribuição no desempenho das vendas;
-<br>
-- Segmentação dos dados dos clientes por faixa salarial, faixa etária, gênero, escolaridade e local;
-<br>
-- Relacionamento das respectivas segmentações com as seguintes medidas: quantidade de clientes, ticket médio comprado, receita gerada, média de salário e média de idade;
-<br><br>
-O relatório concluiu que a empresa possui uma clientela majoritariamente escolarizada e residente na América do Norte, mas cuja clientela com alta escolaridade e baixa faixa salarial gasta uma quantidade desproporcional de ticket médio em relação às outras segmentações. Recomenda-se que a empresa empreenda estratégias para fidelizar esta clientela, pois, de acordo com a proporção dos gastos e da capacidade de compra, a empresa está correndo o risco de perder estes clientes.
-<br><br>
-<a href="https://app.powerbi.com/groups/me/reports/6caed4d4-b2d1-4cc5-8e80-9dee5c610a90/93ff579bfb0c44d84e6d?ctid=dcf5ae63-dba1-49e9-8a67-9797b5c927e8&experience=power-bi">Clique aqui</a> e acesse o a solução desenvolvida.
-<br>
-<a href="https://github.com/DiegoPaim/ClientesContoso/tree/main">Clique aqui</a> e acesse o repositório no Github.
-<br>
-<a href="https://www.linkedin.com/pulse/1-projeto-de-portfolio-an%C3%A1lise-clientes-diego-paim-sx7ef/?trackingId=IOISvfnNSDCUtxfdx2sguA%3D%3D">Clique aqui</a> e acesse a apresentação detalhada da solução.
+<h3>Dashboard Project - Customer Analysis</h3>
 
-<br><br>
+<p><p>This Power BI dashboard was designed to analyze customer profiles and behavior for a fictional global retail company. As the year-end approached, the company sought a data-driven assessment of its customer base to understand its business performance better and develop targeted strategies for future growth. This report presents the following procedures:</p>
 
-### Análise de Vendas e Entregas
+<br>
+
+- Data extraction and cleaning from the company's database, selecting relevant customer information and their contribution to sales performance;  
+- Customer segmentation based on salary range, age group, gender, education level, and location;  
+- Correlation of these segments with key metrics such as customer count, average purchase ticket, total revenue, average salary, and average age.  
+  
+<p>The report concluded that the company’s customer base is primarily well-educated and located in North America. However, customers with high education levels and lower income brackets tend to spend a disproportionately higher average purchase ticket than other segments. It is recommended that the company implements strategies to retain this customer group, as their spending patterns indicate a potential risk of customer attrition due to financial constraints.</p>
+
+<a href="https://app.powerbi.com/groups/me/reports/6caed4d4-b2d1-4cc5-8e80-9dee5c610a90/93ff579bfb0c44d84e6d?ctid=dcf5ae63-dba1-49e9-8a67-9797b5c927e8&experience=power-bi">Click here</a> to access the developed solution.  
+<br>
+<a href="https://github.com/DiegoPaim/ClientesContoso/tree/main">Click here</a> to access the GitHub repository.  
+<br>
+<a href="https://www.linkedin.com/pulse/1-projeto-de-portfolio-an%C3%A1lise-clientes-diego-paim-sx7ef/?trackingId=IOISvfnNSDCUtxfdx2sguA%3D%3D">Click here</a> to view the detailed presentation of the solution.  
+
+<br>
+
+### Sales and deliveries analysis
 <div><img align="left" width="500" src="https://github.com/DiegoPaim/ProjetoBFLubes/blob/main/Prints-Dashboard/Captura%20de%20tela%202025-02-18%20002900.png?raw=true">
 <img align="left" width="500" src="https://github.com/DiegoPaim/ProjetoBFLubes/blob/main/Prints-Dashboard/Captura%20de%20tela%202025-02-18%20002923.png?raw=true"> 
 <img align="left" width="500" src="https://github.com/DiegoPaim/ProjetoBFLubes/blob/main/Prints-Dashboard/Captura%20de%20tela%202025-02-18%20002948.png?raw=true"></div>
 <br> 
-Projeto desenvolvido durante o curso de Power BI & Data Analytics do Bruce Fonseca, com o intuito de analisar o desempenho das vendas e a qualidade do serviço de entrega de uma empresa fictícia. Neste projeto, tratamos inicialmente de sumarizar os dados referentes às vendas dos últimos 4 anos, para entregar ao gestor um panorama do desempenho da empresa. Em seguida, desenvolvemos uma análise das características e detalhes do processo de entrega dos produtos ao longo destes anos, para identificarmos possíveis áreas de impacto na qualidade do serviço e na relação com os clientes. Os procedimentos realizados no desenvolvimento deste relatório foram os seguintes: 
-<br><br>
-- Carregamento e limpeza dos dados fornecidos pela empresa: padronização dos tipos de dados, exclusão de valores nulos, e manipulação das tabelas existentes.<br>
-- Modificanmos as tabelas mesclando colunas e criando colunas personalizadas aptas a nos auxiliar no processo de análise. Por exemplo, criamos colunas calculadas para exibir o status das entregas de cada venda - se estavam atrasadas ou não -, e para exibir em quantos dias tal entrega estava atrasada, se estava atrasada.<br>
-- Construção de medidas-chave em linguagem dax, utilizando recursos tais como funções de iteração, função calculate (), funções de inteligência temporal, variáveis e recursos de rankeamento;
-<br>
-- Segmentação dos dados em categorias-chave, distribuindo inicialmente as vendas por categoria e por tempo. Adicionamos os recursos de tooltip e de menu flutuante para adquirirmos maior detalhamento acereca dos dados em questão;
-<br>
-- Em seguida, segmentamos as entregas por categorias, a partir de medidas criadas especificamente para as entregas. Nesta etapa, utilizamos o objeto "principais influenciadores" para identificar como estas categorias influenciam no desempenho das entregas atrasadas;
-<br>
-- Por fim, construímos uma nova página para visualizarmos com mais detalhe a distribuição das entregas atrasadas pelas nossas categorias. Nesta página, construímos uma tabela com o desempenho de cada categoria dos nossos produtos;
-<br><br>
-O relatório concluiu que, apesar de uma queda de rendimento no ano de 2020, a empresa possui bons índices de recuperação. As vendas cresceram 13% e 5% nos últimos dois anos, com foco nas cidades de Sorocaba e de Blumenau. O desempenho anual também demonstrou estabilização na comparação com o ano passado. As regiões do norte e do nordeste, entretanto, demonstraram uma queda preocupante nas vendas em relação ao ano passado, sendo essa queda demarcada pelo desempenho na segunda metade do ano e pelas cidades de Itapuã e Vitória da Conquista. Além disso, 60% das entregas realizadas são atrasadas, com média geral de 6 dias de atraso. Recomenda-se os seguintes procedimentos para a empresa:
+<h3>Sales Performance and Delivery Quality Analysis</h3>
 
-<br><br>
+<p>Project developed during Bruce Fonseca's Power BI & Data Analytics course, aimed at analyzing the sales performance and delivery service quality of a fictional company. In this project, we first summarized sales data from the past four years to provide management with an overview of the company’s performance. Next, we conducted an in-depth analysis of the characteristics and details of the product delivery process over these years to identify potential areas impacting service quality and customer relationships.</p>
 
-- Repensar as estratégias de marketing e de fidelização dos clientes das regiões do Norte/Nordeste. Embora a venda unitária de produtos seja significativa para essas regiões, a lucratividade têm despencado, o que assinala um risco de perda de clientes e um gasto nos processos de entrega;
-- Melhores mecanismos de controle das entregas. O alto índice de atrasos em todas as regiões do Brasil indicam um problema estrutural que precisa ser atacado.
-- Otimizar as políticas de preços, tendo em vista as entregas para distintas regiões. No ano anterior, realizamos mais entregas, mas tivemos menor lucratividade. Isso significa que estamos vendendo menos e lucrando mais. Seria interessante identificar a partir de qual medida da empresa isso se deu, de modo que possamos eliminar gastos com entregas de baixa lucratividade e fidelizar as vendas que têm crescido. 
+<p>The key steps in developing this report were:</p>
 
-<br><br>
 
-<a href="https://github.com/DiegoPaim/ProjetoBFLubes/tree/main" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+- **Data loading and cleaning:** Standardization of data types, removal of null values, and manipulation of existing tables.  
+- **Table transformations:** Merging columns and creating custom columns to facilitate analysis. For example, we created calculated columns to display the delivery status of each sale (whether it was delayed or not) and to indicate the number of days delivery was overdue when applicable.  
+- **Development of key measures in DAX:** Using iteration functions, the <code>CALCULATE()</code> function, time intelligence functions, variables, and ranking techniques.  
+- **Data segmentation into key categories:** Initially distributing sales by category and time. We incorporated tooltip and floating menu features to provide more detailed insights into the data.  
+- **Delivery segmentation:** Creating specific measures for delivery analysis. At this stage, we used the "Key Influencers" visual to understand how different categories impact late deliveries.  
+- **Detailed analysis of late deliveries:** We developed a dedicated page to visualize the distribution of late deliveries across categories. This page includes a table showcasing the performance of each product category.
+  
+<h3>Key Findings and Recommendations</h3>
+
+<p>The report concluded that, despite a decline in revenue in 2020, the company has shown strong recovery indicators. Sales have grown by 13% and 5% over the past two years, with notable growth in the cities of Sorocaba and Blumenau. Annual performance has also stabilized compared to the previous year. However, the North and Northeast regions have experienced a concerning drop in sales, particularly in the second half of the year, with the cities of Itapuã and Vitória da Conquista standing out in this decline. Additionally, 60% of deliveries are delayed, with an average delay of six days.</p>
+
+<p>The following actions are recommended for the company:</p>
+
+- **Reevaluate marketing and customer retention strategies in the North and Northeast regions.** While the per-unit product sales remain significant, overall profitability has declined sharply. This signals a risk of losing customers and increasing delivery costs.  
+- **Improve delivery control mechanisms.** The high rate of late deliveries across all regions of Brazil indicates a structural issue that needs to be addressed.  
+- **Optimize pricing policies based on regional delivery performance.** In the previous year, the company made more deliveries but achieved lower profitability. This suggests that while sales volume decreased, revenue per sale increased. It would be beneficial to identify the key factors behind this trend to eliminate low-profitability delivery expenses and strengthen the sales that have been growing.  
+
+
+<a href="https://github.com/DiegoPaim/ProjetoBFLubes/tree/main" target="_blank">Click here</a> to access the GitHub repository. 
 <br>
 
 <!--
